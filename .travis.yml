@@ -1,9 +1,5 @@
 language: node_js
-node_js: '12'
-env:
-  global:
-    - GIT_NAME="Domain Management"
-    - GIT_EMAIL="domain.management@americastestkitchen.com"
+node_js: '14'
 
 git:
   depth: false
