@@ -1,3 +1,19 @@
+# v1.0.8 (Wed Feb 09 2022)
+
+#### 🐛 Bug Fix
+
+- add before deploy? [#10](https://github.com/harry-atk/test-travis/pull/10) ([@harry-atk](https://github.com/harry-atk))
+
+#### ⚠️ Pushed to `main`
+
+- add change ([@harry-atk](https://github.com/harry-atk))
+
+#### Authors: 1
+
+- Harry Scheuerle ([@harry-atk](https://github.com/harry-atk))
+
+---
+
 # v1.0.6 (Wed Feb 09 2022)
 
 #### 🐛 Bug Fix
