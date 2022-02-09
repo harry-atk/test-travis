@@ -5,6 +5,9 @@ env:
     - GIT_NAME="Domain Management"
     - GIT_EMAIL="domain.management@americastestkitchen.com"
 
+git:
+  depth: false
+
 install:
   - yarn
 
