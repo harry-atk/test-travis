@@ -19,4 +19,4 @@ deploy:
     script: if [ "$GH_TOKEN" != "false" ];then npx auto shipit; fi;
     skip-cleanup: true
     on:
-      branch: master
+      branch: main
