@@ -23,6 +23,7 @@ const HeroAdWrapperTheme = {
 
     ${breakpoint('xs', 'md')`
       width: 100%;
+      height: 400px;
     `}
   `,
 };
