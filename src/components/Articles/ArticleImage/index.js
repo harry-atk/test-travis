@@ -13,6 +13,7 @@ const ArticleImageFigure = styled.figure`
   ${breakpoint('xs', 'xlg')`
     .article-figcaption {
       padding-bottom: 1.2rem;
+      padding-top: 6px;
     }
   `}
 
